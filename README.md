@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+# React Movie Search
 
 Quick start:
 
